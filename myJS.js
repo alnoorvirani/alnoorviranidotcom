@@ -1,1 +1,1 @@
-console.log("Hello friends!");
+const bootstrap = require('bootstrap')
