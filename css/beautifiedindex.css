@@ -64,6 +64,11 @@ nav.navbar img {
 	width: 130%
 }
 
+nav.navbar img .connect {
+	height: 50px;
+	width: 0;
+}
+
 nav.navbar .navbar-nav .nav-link.navbar-link {
 	color: #000000 !important;
 	font-size: 20px;
