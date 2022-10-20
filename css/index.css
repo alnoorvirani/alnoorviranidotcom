@@ -1,6 +1,5 @@
 @charset "UTF-8";
 @import url(https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Montserrat:wght@400&display=swap);
-
 body{
     -webkit-font-smoothing:antialiased;
     -moz-osx-font-smoothing:grayscale;
@@ -31,7 +30,7 @@ h1,h2,h3,h4,h5,h6{
     padding:0
 }
 nav.navbar{
-    background-color:#30af61;
+    background-color:#f8f6f0;
     padding:18px 0;
     position:fixed;
     top:0;
@@ -50,7 +49,7 @@ nav.navbar img{
     width:70%
 }
 nav.navbar .navbar-nav .nav-link.navbar-link{
-    color:#28ad91!important;
+    color:#fc7996!important;
     font-size:35px;
     letter-spacing:.8px;
     opacity:.75;
@@ -89,7 +88,7 @@ span.navbar-text{
 .navbar-text button{
     -webkit-appearance:none;
     appearance:none;
-    background-color:#ff2600;
+    background-color:#ffe1e8;
     border:3px solid #413f3b;
     border-radius:15px;
     box-sizing:border-box;
@@ -117,7 +116,7 @@ span.navbar-text{
     pointer-events:none
 }
 .navbar-text button:hover{
-    background-color:#afe6ff;
+    background-color:#ffafc0;
     box-shadow:0 8px 15px rgba(0,0,0,.25);
     color:#fff;
     -webkit-transform:translateY(-2px);
