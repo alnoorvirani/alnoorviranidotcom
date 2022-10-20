@@ -25,7 +25,7 @@ html {
 body {
 	background-color: #fff !important;
 	color: #000 !important;
-	font-family: Amatic SC, cursive !important;
+	font-family: IBM Plex Mono !important;
 	overflow-x: hidden;
 	position: relative
 }
@@ -61,7 +61,7 @@ nav.navbar a.navbar-brand {
 }
 
 nav.navbar img {
-	width: 70%
+	width: 130%
 }
 
 nav.navbar .navbar-nav .nav-link.navbar-link {
@@ -120,7 +120,7 @@ span.navbar-text {
 	color: #3b3b3b;
 	cursor: pointer;
 	display: inline-block;
-	font-family: Amatic SC, cursive;
+	font-family: IBM Plex Mono;
 	font-size: 25px;
 	line-height: normal;
 	margin: 0;
@@ -261,7 +261,7 @@ nav.navbar .navbar-toggler[aria-expanded=true] .navbar-toggler-icon {
 	color: #3b3b3b;
 	cursor: pointer;
 	display: flex;
-	font-family: Amatic SC, cursive;
+	font-family: IBM Plex Mono;
 	font-size: 25px;
 	line-height: normal;
 	margin: auto;
