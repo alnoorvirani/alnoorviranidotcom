@@ -65,11 +65,11 @@ nav.navbar img {
 }
 
 nav.navbar .navbar-nav .nav-link.navbar-link {
-	color: #fc7996 !important;
-	font-size: 35px;
+	color: #000000 !important;
+	font-size: 20px;
 	letter-spacing: .8px;
 	opacity: .75;
-	padding: 0 25px
+	padding: 0 50px
 }
 
 nav.navbar .navbar-nav a.nav-link.navbar-link:active,
