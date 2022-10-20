@@ -65,8 +65,8 @@ nav.navbar img {
 }
 
 nav.navbar img .connect {
-	height: 50px;
-	width: 0;
+	max-height: 50px;
+	max-width: 10px;
 }
 
 nav.navbar .navbar-nav .nav-link.navbar-link {
