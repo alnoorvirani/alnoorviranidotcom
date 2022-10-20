@@ -115,7 +115,7 @@ span.navbar-text {
 	transition-timing-function: cubic-bezier(.47, 2.02, .31, -.36)
 }
 
-.navbar-text button {
+/*.navbar-text button {
 	-webkit-appearance: none;
 	appearance: none;
 	background-color: #ffe1e8;
@@ -141,7 +141,7 @@ span.navbar-text {
 	user-select: none;
 	-webkit-user-select: none;
 	will-change: transform
-}
+}*/
 
 .navbar-text button:disabled {
 	pointer-events: none
