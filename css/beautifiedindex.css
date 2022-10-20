@@ -8,7 +8,7 @@ body {
 }
 
 code {
-	font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace
+	font-family: IBM+Plex+Mono
 }
 
 * {
@@ -237,7 +237,7 @@ nav.navbar .navbar-toggler[aria-expanded=true] .navbar-toggler-icon {
 }
 
 .banner h2 {
-	color: #fb7c94;
+	color: #7caffb;
 	font-size: 50px
 }
 
