@@ -61,7 +61,7 @@ nav.navbar a.navbar-brand {
 }
 
 nav.navbar img {
-	width: 130%
+	width: 220%
 }
 
 img.connect {
@@ -74,8 +74,17 @@ nav.navbar .navbar-nav .nav-link.navbar-link {
 	font-size: 20px;
 	letter-spacing: .8px;
 	opacity: .75;
-	padding: 0 50px
+	padding: 0 50px;
 }
+
+nav.navbar .navbar-nav .nav-link.navbar-link.firstoneonleft {
+	color: #000000 !important;
+	font-size: 20px;
+	letter-spacing: .8px;
+	opacity: .75;
+	padding: 0 50px 0px 200px;
+}
+
 
 nav.navbar .navbar-nav a.nav-link.navbar-link:active,
 nav.navbar .navbar-nav a.nav-link.navbar-link:hover {
@@ -9284,6 +9293,11 @@ fieldset:disabled .btn {
 .me-auto {
 	margin-right: auto !important
 }
+
+.me-auto.buttons {
+	margin-right: 50px !important
+}
+
 
 .mb-0 {
 	margin-bottom: 0 !important
