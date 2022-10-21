@@ -6923,6 +6923,11 @@ fieldset:disabled .btn {
 	}
 }
 
+.footerimage {
+	min-width: 200px;
+	min-height:0px;
+}
+
 .tooltip {
 	--bs-tooltip-zindex: 1080;
 	--bs-tooltip-max-width: 200px;
